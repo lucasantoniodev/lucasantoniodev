@@ -4,7 +4,9 @@
 - 🔭 Buscando a primeira oportunidade na carreira de tecnologia;
 - 🐱‍👓 Engenharia de Software, UNINTER (3º Semestre);
 - 🤳 Estudando desenvolvimento mobile (Dart & Flutter);
-- 🌱 Estudando desenvolvimento Back-end (Golang & Dart);
+- 🌱 Estudando desenvolvimento Back-end (Golang);
+- 🌱 Estudando desenvolvimento Back-end (Dart);
+- 🌱 Estudando desenvolvimento Back-end (C# e .NET);
 - 🤔 Conhecimentos básicos em Javascript, Typescript e Python;
 - 📫 E-mail para contato: lucasantoniodev@gmail.com;
 - 😄 Pronouns: ele/dele;
