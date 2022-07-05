@@ -2,7 +2,7 @@
 
 
 - 🔭 Buscando a primeira oportunidade na carreira de tecnologia;
-- 🐱‍👓 Engenharia de Software, UNINTER (2º Semestre);
+- 🐱‍👓 Engenharia de Software, UNINTER (3º Semestre);
 - 🤳 Estudando desenvolvimento mobile (Dart & Flutter);
 - 🌱 Estudando desenvolvimento Back-end (Golang & Dart);
 - 🤔 Conhecimentos básicos em Javascript, Typescript e Python;
