@@ -6,7 +6,6 @@
 - 🤳 Estudando desenvolvimento mobile (Dart & Flutter);
 - 🌱 Estudando desenvolvimento Back-end (Golang);
 - 🌱 Estudando desenvolvimento Back-end (Dart);
-- 🌱 Estudando desenvolvimento Back-end (C# e .NET);
 - 🤔 Conhecimentos básicos em Javascript, Typescript e Python;
 - 📫 E-mail para contato: lucasantoniodev@gmail.com;
 - 😄 Pronouns: ele/dele;
