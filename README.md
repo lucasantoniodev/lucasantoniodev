@@ -4,6 +4,7 @@
 - 🔭 Buscando a primeira oportunidade na carreira de tecnologia;
 - 🐱‍👓 Engenharia de Software, UNINTER (3º Semestre);
 - 🤳 Estudando desenvolvimento mobile (Dart & Flutter);
+- 🌱 Estudando desenvolvimento Back-end (NodeJS);
 - 🌱 Estudando desenvolvimento Back-end (Golang);
 - 🌱 Estudando desenvolvimento Back-end (Dart);
 - 🤔 Conhecimentos básicos em Javascript, Typescript e Python;
