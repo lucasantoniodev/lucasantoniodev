@@ -5,7 +5,7 @@
 - 🐱‍👓 Engenharia de Software, UNINTER (5º Semestre);
 - 🤳 Estudando desenvolvimento mobile (Dart & Flutter);
 - 🌱 Estudando desenvolvimento Back-end (NodeJS);
-- - 🌱 Estudando desenvolvimento Back-end (Java);
+- 🌱 Estudando desenvolvimento Back-end (Java);
 - 🌱 Estudando desenvolvimento Back-end (Golang);
 - 🌱 Estudando desenvolvimento Back-end (Dart);
 - 🤔 Conhecimentos em Javascript, Typescript, Python e Java;
