@@ -1,13 +1,14 @@
 ### Olá! Seja bem vindo ao meu perfil!
 
 
-- 🔭 Buscando a primeira oportunidade na carreira de tecnologia;
-- 🐱‍👓 Engenharia de Software, UNINTER (3º Semestre);
+- 🔭 Buscando sempre melhorar na carreira de tecnologia;
+- 🐱‍👓 Engenharia de Software, UNINTER (5º Semestre);
 - 🤳 Estudando desenvolvimento mobile (Dart & Flutter);
 - 🌱 Estudando desenvolvimento Back-end (NodeJS);
+- - 🌱 Estudando desenvolvimento Back-end (Java);
 - 🌱 Estudando desenvolvimento Back-end (Golang);
 - 🌱 Estudando desenvolvimento Back-end (Dart);
-- 🤔 Conhecimentos básicos em Javascript, Typescript e Python;
+- 🤔 Conhecimentos em Javascript, Typescript, Python e Java;
 - 📫 E-mail para contato: lucasantoniodev@gmail.com;
 - 😄 Pronouns: ele/dele;
 
