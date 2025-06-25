@@ -10,7 +10,6 @@
 - 🌱 Estudando desenvolvimento Back-end (Dart);
 - 🤔 Conhecimentos em Javascript, Typescript, Python e Java;
 - 📫 E-mail para contato: lucasantoniodev@gmail.com;
-- 😄 Pronouns: ele/dele;
 
 <div align="center">
   <a href="https://github.com/lucasantoniodev">
